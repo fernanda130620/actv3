@@ -1,0 +1,157 @@
+.navbar-brand {
+    font-family: 'Comme', sans-serif;
+    font-size: 2.0rem;
+    font-weight: light;
+}
+
+.navbar {
+    padding-bottom: 0 0 2.5rem;
+}
+
+.nav-item {
+    padding: 0 12px;
+    font-family: 'Comme', sans-serif;
+    font-weight: medium;
+}
+
+.nav-link {
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+}
+
+#titulo {
+    background-color: #b29eb6;
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+    padding: 1cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    font-family: 'Comme', sans-serif;
+    font-weight: medium;
+}
+
+.portada{
+    background-color: hsl(140, 59%, 13%);
+    color: #ffffff;
+}
+
+#body {
+    background-color: #EAEFF0;
+}
+
+.h1 {
+    font-size: xx-large;
+    font-size: 3cm;
+    font-weight: 1000;
+}
+
+.h3 {
+    font-size: l;
+    font-size: 3cm;
+    font-weight: 1000;
+}
+
+
+#caja-quienes {
+    background-color: #EAEFF0;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    color: #221824;
+    text-align: center;
+    margin: auto;
+}
+
+#caja-rys {
+    background-color:#201922;
+    font-weight: 900;
+    font-family: 'Comme', sans-serif;
+    color: #EAEFF0;
+    text-align: center;
+    margin: auto;
+    padding: 1% 15%;
+    position: relative;
+    font-size: medium;
+    
+}
+
+#caja-estilos {
+    padding: 3% 2%;
+    text-align: center;
+    background-color: #201922;
+    color:aliceblue;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    margin: auto;
+}
+
+.img-testimonio {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#testimonios {
+    text-align: center;
+    background-color: hsla(0, 0%, 100%, 0.425);
+    color: #000000;
+    font-family: 'Comme', sans-serif;
+
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#cta{
+    background-color:#201922;
+    font-weight: medium;
+    font-family: 'Comme', sans-serif;
+    color: #EAEFF0;
+    text-align: center;
+    margin: auto;
+    padding: 7% 15%;
+    position: relative;
+    font-size: medium;
+   }
+
+   
+   #footer {
+    text-align: center;
+    color: #000000;
+    font-family: 'Comme', sans-serif;
+    padding: 7% 15%;
+    text-align: center;
+   }
+
+   .social-icon{
+    margin: 20px 10px;
+   }
+
+   .accordion {
+    background-color: #240021;
+    color: #420057;
+    cursor: pointer;
+    padding: 50px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+
+   }
+
+   .panel {
+    padding: 0 18px;
+    background-color: rgb(92, 2, 80);
+    display: none;
+    overflow: hidden;
+  }
+
+.panel {
+  padding: 0 18px;
+  background-color: rgb(0, 22, 95);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
